@@ -1,8 +1,6 @@
 
 # Report
 
-[image1]: scores.jpg
-
 ## Learning Algorithm
 
 In order to solve the Unity Banana Navigation environment for this project we use a neural network (actually a couple of them)
@@ -62,13 +60,13 @@ trainig.
 
 ### Plot of Rewards
 
-    ![Plot][image1]
+    ![Plot][scores.jpg]
 
 ### Ideas for Future Work
 
 In order to improve the efficiency of the agent order algorithms can be tried. Those are:
 
-* **Double DQN **
+* **Double DQN**
 * **Prioritized experience replay**
 * **Dueling DQN**
 
