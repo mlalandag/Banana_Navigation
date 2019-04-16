@@ -60,7 +60,7 @@ trainig.
 
 ### Plot of Rewards
 
-    ![Plot](/media/scores.jpg)
+    ![Plot](scores.jpg)
 
 ### Ideas for Future Work
 
